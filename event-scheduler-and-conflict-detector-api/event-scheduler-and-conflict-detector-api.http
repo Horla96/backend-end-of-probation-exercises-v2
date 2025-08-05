@@ -1,0 +1,6 @@
+@event_scheduler_and_conflict_detector_api_HostAddress = http://localhost:5121
+
+GET {{event_scheduler_and_conflict_detector_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
